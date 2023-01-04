@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+
+}
+
+.heading{
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+#windows{
+margin-top: 200px;
+}
+
+.DESK{
+    margin-top: 15px;
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+.FRUITS{
+    margin-top: 15px;
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+.BEDROOM{
+    font-size: 30px;
+    border-radius: 20px;
+}
